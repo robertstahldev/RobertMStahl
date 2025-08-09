@@ -1,3 +1,8 @@
+
+
+![Robert Stahl Banner](./MyBanner.png)
+
+
 # 👋 Hi, I'm Robert Stahl
 
 🎮 **Game Developer & Software Engineer**  
@@ -46,12 +51,19 @@ Developed an interactive SharePoint tracker for a military deployment program. U
 
 ---
 
-## 🛠 Skills & Tools
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,cs,java,cpp,python,html,css,js,github" />
+</p>
 
-- **Languages:** C#, Java, JavaScript, Python, C++  
-- **Game Engines:** Unity  
-- **Other Tools:** Git, GitHub, ServiceNow, Flow Designer  
-- **Specialties:** UI/UX in games, AI behavior, data-driven systems
+---
+
+### 🏆 Notable Skills
+- **Game Development:** Unity (2D & 3D), C#, AI Pathfinding, Physics-based Mechanics, UI/UX for Games  
+- **Software Engineering:** Java, C++, Python, Git, Agile/Scrum, API Integration  
+- **Specialties:** Gameplay Systems, Turn-based Strategy, Procedural Level Design, Performance Optimization  
+- **Tools:** Visual Studio, Rider, Blender, Photoshop, GitHub, ServiceNow UI Builder  
+- **Other Strengths:** Cross-functional Collaboration, Technical Documentation, Debugging Complex Systems
 
 ---
 
