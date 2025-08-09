@@ -1,55 +1,64 @@
-# Hi, I'm Robert Stahl 👋
+# 👋 Hi, I'm Robert Stahl
 
-🎮 **Software Engineer & Game Developer** with experience creating real-time, performance-sensitive applications in Unity (C#) and C++.  
-💻 Skilled in **full-stack systems**, database design, and API integration — from enterprise ServiceNow applications to custom game logic and tools.  
-🚀 Creator of *Cube Conquest*, a turn-based 3D strategy game with AI movement, dynamic map logic, and custom UI/UX.  
-📚 **B.S. in Computer Science** (expected Fall 2025) | ServiceNow Certified Application Developer & Administrator.  
-🌟 20+ years of leadership in the U.S. Air Force, recognized with multiple Professional of the Year and Quarter awards.  
-🔍 Currently exploring **low-level systems programming** and optimization for cloud gaming applications.
+🎮 **Game Developer & Software Engineer**  
+💻 Unity (C#) | ServiceNow Development | Full-Stack Skills  
+📍 Based in the U.S. | Open to remote & hybrid roles
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Featured Projects
 
-**Languages & Tools**  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-1BB12F?style=for-the-badge&logo=servicenow&logoColor=white)
+### [Cube Conquest](https://github.com/robertstahldev/CubeConquest)
+Turn-based 3D strategy game with AI, hover animations, and a battle minigame.
 
----
+**Demo:**
+<p align="center">
+  <img src="https://github.com/robertstahldev/CubeConquest/blob/main/MenuDemo.gif" width="200" />  
+  <img src="https://github.com/robertstahldev/CubeConquest/blob/main/CubeDemo.gif" width="350" />  
+  <img src="https://github.com/robertstahldev/CubeConquest/blob/main/BattleSim.gif" width="350" />
+</p>
 
-## 🎯 Featured Project
+<p align="center">
+  <img src="./MenuDemo.gif" width="300" /><br>
+  <img src="./CubeDemo.gif" width="400" />
+  <img src="./BattleSim.gif" width="400" />
+</p>
 
-### [Cube Conquest](#) <!-- Replace # with your video or repo link -->
-A Unity-based 3D turn-based strategy game:
-- Dynamic cube-based map with tile ownership and adjacency rules  
-- AI opponent movement and decision-making  
-- Custom UI with hover and selection logic  
-- Efficient data structures for state management  
-
-*📹 [Gameplay Demo(coming soon)](#)* <!-- Replace # with your video link -->
+**Highlights:**
+- AI pathfinding & strategic decision-making  
+- Animated hover effects with Unity Animators  
+- Separate battlefield mode with its own tile logic
 
 ---
 
-## 📜 Certifications & Awards
-- ServiceNow Certified System Administrator  
-- ServiceNow Certified Application Developer  
-- Micro-Certifications: Integration Hub, Flow Designer, UI Builder  
-- **Awards:** Professional of the Quarter ×12, Professional of the Year ×4, Safety Manager of the Year  
+### [Other Projects](#)
+Duty Beyond (ServiceNow / App Engine Studio)
+Custom ServiceNow application built to manage community event volunteers and coordinators. Designed a modal-based slot selection system using UI Builder, dynamic data filtering, and role-based access controls. Improved event assignment speed and reduced duplicate signups.
+
+Traffic Simulation (Java / JavaFX)
+A multi-threaded visual simulation of traffic lights and cars, complete with pause/resume, adjustable timing, and animated movement. Demonstrates concurrency handling, event-driven UI design, and clean separation of logic for scalability.
+
+Expression Tree Evaluator (C++ / Flex / Bison)
+A compiler project implementing parsing and evaluation of arithmetic and logical expressions, supporting binary, unary, ternary, and quaternary operators. Built using an abstract syntax tree (AST) with robust error handling and operator precedence.
+
+Deployment Management Tracker (SharePoint / VBA / JSON)
+Developed an interactive SharePoint tracker for a military deployment program. Used JSON for automated calculations, conditional formatting, and real-time readiness reporting. Reduced overdue training from 27% to 2% within months.
 
 ---
 
-## 📊 GitHub Stats
-![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertMStahl&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertMStahl&layout=compact&theme=tokyonight)
+## 🛠 Skills & Tools
+
+- **Languages:** C#, Java, JavaScript, Python, C++  
+- **Game Engines:** Unity  
+- **Other Tools:** Git, GitHub, ServiceNow, Flow Designer  
+- **Specialties:** UI/UX in games, AI behavior, data-driven systems
 
 ---
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [www.linkedin.com/in/rob-stahl](#)  
+- **GitHub:** [github.com/robertstahldev](https://github.com/robertstahldev)
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rob-stahl)
